@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.869 sec <<< FAILURE!
+testyahoo(Test.A_2)  Time elapsed: 3.681 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test.chrome.closing(chrome.java:28)
+	at Test.A_2.testyahoo(A_2.java:19)
+
